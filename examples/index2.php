@@ -1,5 +1,5 @@
 <?php
 
-echo 'Hello World';
-echo 'prout!!!!';dsdsd
-echo 'blabla'
+echo 'Hello World de la branche re-pouet';
+echo 'Hello World toi aussi';
+examples/index2.php
